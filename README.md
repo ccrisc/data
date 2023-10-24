@@ -1,6 +1,7 @@
 # Data repository
 This repo contains data useful for marketing analysis.
 
-Data 
-- participant_list.csv
+- participants_list.csv
+
+First Name,Last Name,Gender
 - 

@@ -12,3 +12,11 @@ This repo contains data useful for marketing analysis.
 - Birthdate
 - ZIP
 - JoinDate
+
+**transactions.csv**
+- Customer
+- TransDate
+- Quantity
+- PurchAmount
+- Cost
+- TransID
